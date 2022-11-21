@@ -8,3 +8,4 @@ public/[0-9]*
 public/fonts/*
 composer.lock
 public/mix-manifest.json
+node_modules
